@@ -3,6 +3,7 @@ import f from './Footer.module.css';
 import footCounter from './../img/Black_white_counter.png'
 
 const Footer = () => {
+
     return (
         <footer className={f.footer}>
           <aside className={f.aside_footer}>

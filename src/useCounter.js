@@ -20,4 +20,3 @@ export const useCounter = (initialValue) => {
 
     return { count, increment, decrement, reset };
 };
-// what is happened with gitHub
